@@ -2,7 +2,7 @@
 Pizza sales analysis based on Data Science learning class Task
 
 ### Data Collection
-The dataset I got from Techcrush Academy and already in .csv (comma separated value). Also, this dataset was already clean
+The dataset I got from Techcrush Academy and was in .csv (comma separated value). Also, this dataset was already clean
 
 The dataset consist are:
 Orders: contains data customer, such an order ID, and when customers buy pizza (date and time)
