@@ -1,7 +1,7 @@
 # Pizza-Sale-Analysis
 Pizza sales analysis based on Data Science learning class Task
 
-### Data Collection
+## Data Collection
 The dataset I got from Techcrush Academy and was in .csv (comma separated value). Also, this dataset was already clean
 
 The dataset consist are:
@@ -25,4 +25,6 @@ Here are some things that I analyzed from this task:
  9 Find the sales made in each month. Any trend noticeable?
  10 Are there pizza types that are not doing well on the menu?, and alot more
 
+### Data Preparation
+The first step was to import all the libraries and read the data with pandas DataFrame
 
