@@ -10,25 +10,25 @@ Order details: what the customer bought
 Pizzas: menu items of Pizza
 Pizza types: type of pizza
 
-## Exploratory Data Analysis (EDA)
-I analyzed this dataset using Python
-Here are some things that I analyzed from this task:
-
- 1 What is the total revenue/sales?
- 2 Find the total quantity sold.
- 3 Find the total orders.
- 4 How many pizza types do they sell?
- 5 Find the average price of the pizzas.
- 6 What are the peak hours of sales?
- 7 Find the total sales made on each day of the week. Which day of the week is when sales are made the most?
- 8 Find the top 5 bestselling pizzas.
- 9 Find the sales made in each month. Any trend noticeable?
- 10 Are there pizza types that are not doing well on the menu?, and alot more
-
 ### Data Preparation
 The first step was to import all the libraries and read the data with pandas DataFrame.
-Before proceeding with the analysis, the dataset was subjected to data cleaning and preparation steps. Firstly, we checked for missing values in the dataset to ensure data integrity. Fortunately, no missing values were found, indicating a complete and reliable dataset. Secondly, we examined the dataset for any duplicate entries and removed them to eliminate redundancy and maintain data accuracy
+Before proceeding with the analysis, the dataset was subjected to data cleaning and preparation steps. Firstly, we checked for missing values in the dataset to ensure data integrity. Fortunately, no missing values were found, indicating a complete and reliable dataset. Secondly, we examined the dataset for any duplicate entries to eliminate redundancy and maintain data accuracy. These data-cleaning steps ensured that the dataset was ready for exploration and analysis, providing a solid foundation for deriving meaningful insights.
 
+
+## Exploratory Data Analysis (EDA)
+I analyzed this dataset using Python.
+Here are some things that I analyzed from this task:
+
+1. What is the total revenue/sales?
+2. Find the total quantity sold.
+3. Find the total orders.
+4. How many pizza types do they sell?
+5. Find the average price of the pizzas.
+6. What are the peak hours of sales?
+7. Find the total sales made on each day of the week. Which day of the week is when sales are made the most?
+8. Find the top 5 bestselling pizzas.
+9. Find the sales made in each month. Any trend noticeable?
+10. Are there pizza types that are not doing well on the menu?, and alot more
 
 ### Insights
 1. The month with the Highest Sales: Based on the data analysis, it was found that the month with the highest sales was July 2015. This indicates a peak period of customer demand during that time.
