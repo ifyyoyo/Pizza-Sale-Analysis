@@ -11,7 +11,8 @@ Pizzas: menu items of Pizza
 Pizza types: type of pizza
 
 ### Data Preparation
-The first step was to import all the libraries and read the data with pandas DataFrame.
+The first step was to import all the libraries and read the data with pandas DataFrame and i merged all datasets together to form one complete dataset.
+
 Before proceeding with the analysis, the dataset was subjected to data cleaning and preparation steps. Firstly, we checked for missing values in the dataset to ensure data integrity. Fortunately, no missing values were found, indicating a complete and reliable dataset. Secondly, we examined the dataset for any duplicate entries to eliminate redundancy and maintain data accuracy. These data-cleaning steps ensured that the dataset was ready for exploration and analysis, providing a solid foundation for deriving meaningful insights.
 
 
