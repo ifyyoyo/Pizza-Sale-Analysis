@@ -26,5 +26,14 @@ Here are some things that I analyzed from this task:
  10 Are there pizza types that are not doing well on the menu?, and alot more
 
 ### Data Preparation
-The first step was to import all the libraries and read the data with pandas DataFrame
+The first step was to import all the libraries and read the data with pandas DataFrame.
+Before proceeding with the analysis, the dataset was subjected to data cleaning and preparation steps. Firstly, we checked for missing values in the dataset to ensure data integrity. Fortunately, no missing values were found, indicating a complete and reliable dataset. Secondly, we examined the dataset for any duplicate entries and removed them to eliminate redundancy and maintain data accuracy
+
+
+### Insights
+1. The month with the Highest Sales: Based on the data analysis, it was found that the month with the highest sales was July 2015. This indicates a peak period of customer demand during that time.
+2. Peak Hours: The analysis revealed that the peak hours for pizza orders were between 12–1 pm and 5–6 pm. This suggests that customers tend to place orders during lunchtime and early evening, which can be valuable information for resource allocation and staffing.
+3. Highest Orders by Pizza Type: The pizza type “classic_dlx” emerged as the most popular choice among customers, with the highest number of orders. This indicates a preference for this particular pizza variant among the target audience.
+4. Revenue Contribution per Pizza Size: Among the different pizza sizes, size L (Large) had the highest revenue contribution. This suggests that customers often opt for large pizza sizes, which can be leveraged for targeted marketing and promotional strategies.
+5. Revenue for Each Pizza Type: The analysis further revealed that the “Thai Chicken” pizza type generated the highest revenue compared to other pizza types. This indicates a strong demand for this particular pizza variant and presents an opportunity to capitalize on its popularity.
 
