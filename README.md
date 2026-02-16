@@ -1,5 +1,5 @@
 # Pizza-Sale-Analysis
-Pizza sales analysis based on Data Science learning class Task
+Pizza sales analysis based on Data Science class Task
 
 ## Data Collection
 The dataset I got from Techcrush Academy and was in .csv (comma separated value). Also, this dataset was already clean
